@@ -10,15 +10,17 @@ A starter to launch your blazing fast personal website and a blog, Built with [G
 
 Need help launching your website? My DM's are open on <a href="https://twitter.com/stackrole">twitter</a>
 
-[![Gatsby Starter Foundation Screenshot](static/assets/screenshot.png)](https://foundation.stackrole.com)
+[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundation.stackrole.com)
 
 ## 👌 Features
 - A Blog and Personal website with Netlify CMS.
 - Responsive Web Design
+- Dark / Light Mode
 - Customize content of Homepage, About and Contact page.
 - Add / Modify / Delete blog posts.
 - Edit website settings, Add Google Analytics and make it your own all with in the CMS.
 - SEO Optimized
+- Social media icons
 - OpenGraph structured data
 - Twitter Cards meta
 - Beautiful XML Sitemaps
@@ -26,7 +28,8 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
 - Gatsby Incremental Builds with Netlify.
 
-[![Check out Stackrole.com - A Jamstack marketplace](static/assets/twitter-header.jpg)](https://stackrole.com)
+
+[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-dark-mode.jpg)](https://foundation.stackrole.com)
 
 ## 🚀 Quick Deploy
 Just click on the **Deploy to Netlify** button.
@@ -48,7 +51,7 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 ## ⚙ Access to Netlify CMS
 - Goto app.netlify.com > select your website from the list
 - Goto identity and Click **Enable Identiy**
-- Click on **Invite Users** and invite yourself. You will recieve an email and you need to accept the invitation to set the password.
+- Click on **Invite Users** and invite yourself. You will receive an email and you need to accept the invitation to set the password.
 - Now headover to Settings > Identity > Services and **Enable Git Gateway**
 - You can also manage who can register and log in to your CMS. Goto  Settings > Identity > Registration >Registration Preferences. I would prefer to keep it to **Invite Only**, if i am the only one using it.
 - Now, goto to **site-name.netlify.app/admin/**, and login with your credentials.
@@ -144,6 +147,7 @@ I would love to get your feedback and contributions.
 
 Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
 
+[![Check out Stackrole.com - A Jamstack marketplace](static/assets/twitter-header.jpg)](https://stackrole.com)
 
 [gatsby]: https://gatsbyjs.org
 [netlifyCMS]: https://www.netlifycms.org
